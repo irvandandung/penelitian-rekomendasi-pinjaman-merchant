@@ -1,0 +1,9 @@
+[
+    { "id": 1, "criteria": "UMI" },
+    { "id": 2, "criteria": "UME" },
+    { "id": 3, "criteria": "UKE" },
+    { "id": 4, "criteria": "URE" },
+    { "id": 5, "criteria": "UBE" },
+    { "id": 6, "criteria": "PSO" },
+    { "id": 7, "criteria": "BLU" }
+]
