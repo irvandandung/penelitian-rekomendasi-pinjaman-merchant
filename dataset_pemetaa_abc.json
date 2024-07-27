@@ -1,0 +1,3296 @@
+[
+	{
+		"code":"0102",
+		"location": "Kab. Bekasi ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0103",
+		"location": "Kab. Purwakarta ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0106",
+		"location": "Kab. Karawang",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0108",
+		"location": "Kab. Bogor ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0109",
+		"location": "Kab. Sukabumi ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0110",
+		"location": "Kab. Cianjur ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0111",
+		"location": "Kab. Bandung ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0112",
+		"location": "Kab. Sumedang",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0113",
+		"location": "Kab. Tasikmalaya",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0114",
+		"location": "Kab. Garut ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0115",
+		"location": "Kab. Ciamis ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0116",
+		"location": "Kab. Cirebon ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0117",
+		"location": "Kab. Kuningan ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0118",
+		"location": "Kab. Indramayu ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0119",
+		"location": "Kab. Majalengka ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0121",
+		"location": "Kab. Subang ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0122",
+		"location": "Kab. Bandung Barat",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0123",
+		"location": "Kab. Pangandaran",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0180",
+		"location": "Kota Banjar",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0191",
+		"location": "Kota Bandung ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0192",
+		"location": "Kota Bogor ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0193",
+		"location": "Kota Sukabumi ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0194",
+		"location": "Kota Cirebon ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0195",
+		"location": "Kota Tasikmalaya ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0196",
+		"location": "Kota Cimahi ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0197",
+		"location": "Kota Depok ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0198",
+		"location": "Kota Bekasi ",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0188",
+		"location": "Kab/Kota Lainnya di Jabar",
+		"provinceCode":"9",
+		"province":"Jawa Barat"
+	},
+	{
+		"code":"0201",
+		"location": "Kab. Lebak ",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0202",
+		"location": "Kab. Pandeglang ",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0203",
+		"location": "Kab. Serang",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0204",
+		"location": "Kab. Tangerang ",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0291",
+		"location": "Kota Cilegon",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0292",
+		"location": "Kota Tangerang ",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0293",
+		"location": "Kota Serang",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0294",
+		"location": "Kota Tangerang Selatan",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0288",
+		"location": "Kab./Kota Lainnya di Banten",
+		"provinceCode":"3",
+		"province":"Banten"
+	},
+	{
+		"code":"0391",
+		"location": "Wil. Kota Jakarta Pusat ",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0392",
+		"location": "Wil. Kota Jakarta Utara ",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0393",
+		"location": "Wil. Kota Jakarta Barat ",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0394",
+		"location": "Wil. Kota Jakarta Selatan",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0395",
+		"location": "Wil. Kota Jakarta Timur ",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0396",
+		"location": "Wil. Kepulauan Seribu",
+		"provinceCode":"6",
+		"province":"DKI Jakarta"
+	},
+	{
+		"code":"0501",
+		"location": "Kab. Bantul",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0502",
+		"location": "Kab. Sleman ",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0503",
+		"location": "Kab. Gunung Kidul ",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0504",
+		"location": "Kab. Kulon Progo ",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0591",
+		"location": "Kota Yogyakarta",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0588",
+		"location": "Kab./Kota Lainnya",
+		"provinceCode":"5",
+		"province":"DI Yogyakarta"
+	},
+	{
+		"code":"0901",
+		"location": "Kab. Semarang",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0902",
+		"location": "Kab. Kendal ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0903",
+		"location": "Kab. Demak ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0904",
+		"location": "Kab. Grobogan ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0905",
+		"location": "Kab. Pekalongan ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0906",
+		"location": "Kab. Tegal ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0907",
+		"location": "Kab. Brebes ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0908",
+		"location": "Kab. Pati ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0909",
+		"location": "Kab. Kudus ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0910",
+		"location": "Kab. Pemalang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0911",
+		"location": "Kab. Jepara ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0912",
+		"location": "Kab. Rembang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0913",
+		"location": "Kab. Blora ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0914",
+		"location": "Kab. Banyumas ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0915",
+		"location": "Kab. Cilacap ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0916",
+		"location": "Kab. Purbalingga ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0917",
+		"location": "Kab. Banjarnegara ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0918",
+		"location": "Kab. Magelang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0919",
+		"location": "Kab. Temanggung ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0920",
+		"location": "Kab. Wonosobo ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0921",
+		"location": "Kab. Purworejo ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0922",
+		"location": "Kab. Kebumen ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0923",
+		"location": "Kab. Klaten ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0924",
+		"location": "Kab. Boyolali ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0925",
+		"location": "Kab. Sragen ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0926",
+		"location": "Kab. Sukoharjo ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0927",
+		"location": "Kab. Karanganyar ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0928",
+		"location": "Kab. Wonogiri ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0929",
+		"location": "Kab. Batang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0991",
+		"location": "Kota Semarang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0992",
+		"location": "Kota Salatiga ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0993",
+		"location": "Kota Pekalongan ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0994",
+		"location": "Kota Tegal ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0995",
+		"location": "Kota Magelang ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0996",
+		"location": "Kota Surakarta/Solo ",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"0988",
+		"location": "Kab./Kota Lainnya di Jateng",
+		"provinceCode":"10",
+		"province":"Jawa Tengah"
+	},
+	{
+		"code":"1201",
+		"location": "Kab. Gresik",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1202",
+		"location": "Kab. Sidoarjo ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1203",
+		"location": "Kab. Mojokerto ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1204",
+		"location": "Kab. Jombang ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1205",
+		"location": "Kab. Sampang ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1206",
+		"location": "Kab. Pamekasan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1207",
+		"location": "Kab. Sumenep ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1208",
+		"location": "Kab. Bangkalan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1209",
+		"location": "Kab. Bondowoso ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1211",
+		"location": "Kab. Banyuwangi ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1212",
+		"location": "Kab. Jember",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1213",
+		"location": "Kab. Malang ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1214",
+		"location": "Kab. Pasuruan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1215",
+		"location": "Kab. Probolinggo ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1216",
+		"location": "Kab. Lumajang ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1217",
+		"location": "Kab. Kediri ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1218",
+		"location": "Kab. Nganjuk ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1219",
+		"location": "Kab. Tulungagung ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1220",
+		"location": "Kab. Trenggalek ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1221",
+		"location": "Kab. Blitar ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1222",
+		"location": "Kab. Madiun ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1223",
+		"location": "Kab. Ngawi ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1224",
+		"location": "Kab. Magetan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1225",
+		"location": "Kab. Ponorogo ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1226",
+		"location": "Kab. Pacitan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1227",
+		"location": "Kab. Bojonegoro ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1228",
+		"location": "Kab. Tuban ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1229",
+		"location": "Kab. Lamongan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1230",
+		"location": "Kab. Situbondo ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1271",
+		"location": "Kota Batu",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1291",
+		"location": "Kota Surabaya ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1292",
+		"location": "Kota Mojokerto ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1293",
+		"location": "Kota Malang ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1294",
+		"location": "Kota Pasuruan ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1295",
+		"location": "Kota Probolinggo ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1296",
+		"location": "Kota Blitar ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1297",
+		"location": "Kota Kediri ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1298",
+		"location": "Kota Madiun ",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"1288",
+		"location": "Kab./Kota Lainnya di Jatim",
+		"provinceCode":"11",
+		"province":"Jawa Timur"
+	},
+	{
+		"code":"2301",
+		"location": "Kab. Bengkulu Selatan",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2302",
+		"location": "Kab. Bengkulu Utara ",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2303",
+		"location": "Kab. Rejang Lebong ",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2304",
+		"location": "Kab. Lebong",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2305",
+		"location": "Kab. Kepahiang",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2306",
+		"location": "Kab. Mukomuko",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2307",
+		"location": "Kab. Seluma",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2308",
+		"location": "Kab. Kaur",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2309",
+		"location": "Kab. Bengkulu Tengah",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2391",
+		"location": "Kota Bengkulu ",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"2388",
+		"location": "Kab./Kota Lainnya di Bengkulu",
+		"provinceCode":"4",
+		"province":"Bengkulu"
+	},
+	{
+		"code":"3101",
+		"location": "Kab. Batanghari ",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3104",
+		"location": "Kab. Sarolangun",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3105",
+		"location": "Kab. Kerinci ",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3106",
+		"location": "Kab. Muaro Jambi",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3107",
+		"location": "Kab. Tanjung Jabung Barat",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3108",
+		"location": "Kab. Tanjung Jabung Timur",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3109",
+		"location": "Kab. Tebo",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3111",
+		"location": "Kab. Merangin",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3112",
+		"location": "Kab. Bungo",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3191",
+		"location": "Kota Jambi ",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3192",
+		"location": "Kota Sungai Penuh",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3188",
+		"location": "Kab./Kota Lainnya di Jambi",
+		"provinceCode":"8",
+		"province":"Jambi"
+	},
+	{
+		"code":"3201",
+		"location": "Kab. Aceh Besar ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3202",
+		"location": "Kab. Pidie ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3203",
+		"location": "Kab. Aceh Utara ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3204",
+		"location": "Kab. Aceh Timur ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3205",
+		"location": "Kab. Aceh Selatan ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3206",
+		"location": "Kab. Aceh Barat ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3207",
+		"location": "Kab. Aceh Tengah ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3208",
+		"location": "Kab. Aceh Tenggara ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3209",
+		"location": "Kab. Aceh Singkil",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3210",
+		"location": "Kab. Aceh Jeumpa/Bireuen",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3211",
+		"location": "Kab. Aceh Tamiang",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3212",
+		"location": "Kab. Gayo Luwes",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3213",
+		"location": "Kab. Aceh Barat Daya",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3214",
+		"location": "Kab. Aceh Jaya",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3215",
+		"location": "Kab. Nagan Raya",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3216",
+		"location": "Kab. Simeuleu",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3217",
+		"location": "Kab. Bener Meriah",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3218",
+		"location": "Kab. Pidie Jaya",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3219",
+		"location": "Kab. Subulussalam",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3291",
+		"location": "Kota Banda Aceh ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3292",
+		"location": "Kota Sabang",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3293",
+		"location": "Kota Lhokseumawe ",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3294",
+		"location": "Kota Langsa",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3288",
+		"location": "Kab./Kota Lainnya di Aceh",
+		"provinceCode":"1",
+		"province":"Aceh"
+	},
+	{
+		"code":"3301",
+		"location": "Kab. Deli Serdang ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3302",
+		"location": "Kab. Langkat ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3303",
+		"location": "Kab. Karo ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3304",
+		"location": "Kab. Simalungun",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3305",
+		"location": "Kab. Labuhan Batu ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3306",
+		"location": "Kab. Asahan ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3307",
+		"location": "Kab. Dairi ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3308",
+		"location": "Kab. Tapanuli Utara ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3309",
+		"location": "Kab. Tapanuli Tengah ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3310",
+		"location": "Kab. Tapanuli Selatan ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3311",
+		"location": "Kab. Nias ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3313",
+		"location": "Kab. Toba Samosir",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3314",
+		"location": "Kab. Mandailing Natal",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3315",
+		"location": "Kab. Nias Selatan",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3316",
+		"location": "Kab. Humbang Hasundutan",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3317",
+		"location": "Kab. Pakpak Bharat",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3318",
+		"location": "Kab. Samosir",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3319",
+		"location": "Kab. Serdang Bedagai",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3321",
+		"location": "Kab. Batu Bara",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3322",
+		"location": "Kab. Padang Lawas",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3323",
+		"location": "Kab. Padang Lawas Utara",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3324",
+		"location": "Kab. Labuanbatu Selatan",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3325",
+		"location": "Kab. Labuanbatu Utara",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3326",
+		"location": "Kab. Nias Barat",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3327",
+		"location": "Kab. Nias Utara",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3391",
+		"location": "Kota Tebing Tinggi ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3392",
+		"location": "Kota Binjai ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3393",
+		"location": "Kota Pematang Siantar ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3394",
+		"location": "Kota Tanjung Balai ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3395",
+		"location": "Kota Sibolga",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3396",
+		"location": "Kota Medan ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3397",
+		"location": "Kota Gunung Sitoli",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3399",
+		"location": "Kota Padang Sidempuan ",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3388",
+		"location": "Kab/Kota Lainnya di Sumut",
+		"provinceCode":"34",
+		"province":"Sumatera Utara"
+	},
+	{
+		"code":"3401",
+		"location": "Kab. Agam ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3402",
+		"location": "Kab. Pasaman ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3403",
+		"location": "Kab. Lima Puluh Kota",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3404",
+		"location": "Kab. Solok Selatan",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3405",
+		"location": "Kab. Padang Pariaman ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3406",
+		"location": "Kab. Pesisir Selatan ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3407",
+		"location": "Kab. Tanah Datar ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3408",
+		"location": "Kab. Sawahlunto/Sijunjung",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3409",
+		"location": "Kab. Kepulauan Mentawai",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3410",
+		"location": "Kab. Pasaman Barat",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3411",
+		"location": "Kab. Dharmasraya",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3412",
+		"location": "Kab. Solok",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3491",
+		"location": "Kota Bukittinggi ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3492",
+		"location": "Kota Padang",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3493",
+		"location": "Kota Sawahlunto",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3494",
+		"location": "Kota Padang Panjang ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3495",
+		"location": "Kota Solok ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3496",
+		"location": "Kota Payakumbuh ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3497",
+		"location": "Kota Pariaman ",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3488",
+		"location": "Kab./Kota Lainnya di Sumbar",
+		"provinceCode":"32",
+		"province":"Sumatera Barat"
+	},
+	{
+		"code":"3501",
+		"location": "Kab. Kampar",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3502",
+		"location": "Kab. Bengkalis ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3504",
+		"location": "Kab. Indragiri Hulu ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3505",
+		"location": "Kab. Indragiri Hilir",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3508",
+		"location": "Kab. Rokan Hulu",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3509",
+		"location": "Kab. Rokan Hilir",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3510",
+		"location": "Kab. Pelalawan  ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3511",
+		"location": "Kab. Siak ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3512",
+		"location": "Kab. Kuantan Singingi   ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3513",
+		"location": "Kab. Kepulauan Meranti",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3591",
+		"location": "Kota Pekanbaru ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3592",
+		"location": "Kota Dumai ",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3588",
+		"location": "Kab./Kota Lainnya di Riau",
+		"provinceCode":"26",
+		"province":"Riau"
+	},
+	{
+		"code":"3606",
+		"location": "Kab. Musi Banyuasin ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3607",
+		"location": "Kab. Ogan Komering Ulu ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3608",
+		"location": "Kab. Lematang Ilir Ogan Tengah (Muara Enim) ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3609",
+		"location": "Kab. Lahat",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3610",
+		"location": "Kab. Musi Rawas ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3611",
+		"location": "Kab. Ogan Komering Ilir ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3613",
+		"location": "Kab. Banyuasin",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3614",
+		"location": "Kab. Ogan Komering Ulu Selatan",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3615",
+		"location": "Kab. Ogan Komering Ulu Timur",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3616",
+		"location": "Kab. Ogan Ilir",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3617",
+		"location": "Kab. Empat Lawang",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3618",
+		"location": "Kab. Musi Rawas Utara",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3619",
+		"location": "Kab. Penukal Abab Lematang Ilir",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3691",
+		"location": "Kota Palembang ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3693",
+		"location": "Kota Lubuklinggau ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3694",
+		"location": "Kota Prabumulih ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3697",
+		"location": "Kota Pagar Alam   ",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3688",
+		"location": "Kab./Kota Lainnya di Sumsel",
+		"provinceCode":"33",
+		"province":"Sumatera Selatan"
+	},
+	{
+		"code":"3701",
+		"location": "Kab. Bangka ",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3702",
+		"location": "Kab. Belitung",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3703",
+		"location": "Kab. Bangka Barat",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3704",
+		"location": "Kab. Bangka Selatan",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3705",
+		"location": "Kab. Bangka Tengah",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3706",
+		"location": "Kab. Belitung Timur ",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3707",
+		"location": "Kab. Bangka Belitung",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3791",
+		"location": "Kota Pangkal Pinang ",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3788",
+		"location": "Kab./Kota Lainnya di Kep. Bangka",
+		"provinceCode":"17",
+		"province":"Bangka Belitung"
+	},
+	{
+		"code":"3801",
+		"location": "Kab. Karimun",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3802",
+		"location": "Kab. Lingga",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3803",
+		"location": "Kab. Natuna",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3804",
+		"location": "Kab. Bintan (d/h Kab. Kepulauan Riau)",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3805",
+		"location": "Kab. Kepulauan Anambas",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3891",
+		"location": "Kota Tanjung Pinang ",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3892",
+		"location": "Kota Batam",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3888",
+		"location": "Kab./Kota Lainnya di Kepulauan Riau",
+		"provinceCode":"18",
+		"province":"Kepulauan Riau"
+	},
+	{
+		"code":"3901",
+		"location": "Kab. Lampung Selatan ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3902",
+		"location": "Kab. Lampung Tengah ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3903",
+		"location": "Kab. Lampung Utara ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3904",
+		"location": "Kab. Lampung Barat ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3905",
+		"location": "Kab. Tulang Bawang ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3906",
+		"location": "Kab. Tanggamus ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3907",
+		"location": "Kab. Lampung Timur",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3908",
+		"location": "Kab. Way Kanan",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3909",
+		"location": "Kab. Pesawaran",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3910",
+		"location": "Kab. Pringsewu",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3911",
+		"location": "Kab. Tulang Bawang Barat",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3912",
+		"location": "Kab. Mesuji",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3913",
+		"location": "Kab. Pesisir Barat",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3991",
+		"location": "Kota Bandar Lampung ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3992",
+		"location": "Kota Metro ",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"3988",
+		"location": "Kab./Kota Lainnya di Lampung",
+		"provinceCode":"19",
+		"province":"Lampung"
+	},
+	{
+		"code":"5101",
+		"location": "Kab. Banjar ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5102",
+		"location": "Kab. Tanah Laut ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5103",
+		"location": "Kab. Tapin ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5104",
+		"location": "Kab. Hulu Sungai Selatan",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5105",
+		"location": "Kab. Hulu Sungai Tengah ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5106",
+		"location": "Kab. Hulu Sungai Utara ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5107",
+		"location": "Kab. Barito Kuala ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5108",
+		"location": "Kab. Kota Baru ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5109",
+		"location": "Kab. Tabalong",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5110",
+		"location": "Kab.Tanah Bumbu",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5111",
+		"location": "Kab. Balangan",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5191",
+		"location": "Kota Banjarmasin ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5192",
+		"location": "Kota Banjarbaru ",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5188",
+		"location": "Kab./Kota Lainnya di Kalsel",
+		"provinceCode":"13",
+		"province":"Kalimantan Selatan"
+	},
+	{
+		"code":"5301",
+		"location": "Kab. Mempawah (d/h Kab. Pontianak)",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5302",
+		"location": "Kab. Sambas ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5303",
+		"location": "Kab. Ketapang ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5304",
+		"location": "Kab. Sanggau ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5305",
+		"location": "Kab. Sintang ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5306",
+		"location": "Kab. Kapuas Hulu ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5307",
+		"location": "Kab. Bengkayang    ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5308",
+		"location": "Kab. Landak   ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5309",
+		"location": "Kab. Sekadau",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5310",
+		"location": "Kab. Melawi",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5311",
+		"location": "Kab. Kayong Utara",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5312",
+		"location": "Kab. Kubu Raya",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5391",
+		"location": "Kota Pontianak ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5392",
+		"location": "Kota Singkawang ",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5388",
+		"location": "Kab./Kota Lainnya di Kalbar",
+		"provinceCode":"12",
+		"province":"Kalimantan Barat"
+	},
+	{
+		"code":"5401",
+		"location": "Kab. Kutai Kartanegara",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5402",
+		"location": "Kab. Berau ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5403",
+		"location": "Kab. Paser",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5405",
+		"location": "Kab. Kutai Barat   ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5406",
+		"location": "Kab. Kutai Timur ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5411",
+		"location": "Kab. Penajam Paser Utara",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5413",
+		"location": "Kab. Mahakam Ulu",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5491",
+		"location": "Kota Samarinda ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5492",
+		"location": "Kota Balikpapan ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5494",
+		"location": "Kota Bontang ",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5488",
+		"location": "Kab./Kota Lainnya di Kaltim",
+		"provinceCode":"15",
+		"province":"Kalimantan Timur"
+	},
+	{
+		"code":"5404",
+		"location": "Kab. Bulungan ",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5409",
+		"location": "Kab. Nunukan ",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5410",
+		"location": "Kab. Malinau ",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5412",
+		"location": "Kab. Tana Tidung ",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5493",
+		"location": "Kota Tarakan ",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5588",
+		"location": "Kab./Kota Lainnya di Kaltara",
+		"provinceCode":"16",
+		"province":"Kalimantan Utara"
+	},
+	{
+		"code":"5801",
+		"location": "Kab. Kapuas ",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5802",
+		"location": "Kab. Kotawaringin Barat ",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5803",
+		"location": "Kab. Kotawaringin Timur",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5804",
+		"location": "Kab. Murung Raya",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5805",
+		"location": "Kab. Barito Timur",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5806",
+		"location": "Kab. Barito Selatan ",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5807",
+		"location": "Kab. Gunung Mas",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5808",
+		"location": "Kab. Barito Utara",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5809",
+		"location": "Kab. Pulang Pisau",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5810",
+		"location": "Kab. Seruyan",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5811",
+		"location": "Kab. Katingan",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5812",
+		"location": "Kab. Sukamara",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5813",
+		"location": "Kab. Lamandau",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5892",
+		"location": "Kota Palangkaraya ",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"5888",
+		"location": "Kab./Kota Lainnya di Kalteng",
+		"provinceCode":"14",
+		"province":"Kalimantan Tengah"
+	},
+	{
+		"code":"6001",
+		"location": "Kab. Donggala ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6002",
+		"location": "Kab. Poso ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6003",
+		"location": "Kab. Banggai ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6004",
+		"location": "Kab. Toli-Toli",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6005",
+		"location": "Kab. Banggai Kepulauan   ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6006",
+		"location": "Kab. Morowali  ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6007",
+		"location": "Kab. Buol    ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6008",
+		"location": "Kab. Tojo Una-Una",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6009",
+		"location": "Kab. Parigi Moutong",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6010",
+		"location": "Kab. Sigi",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6011",
+		"location": "Kab. Banggai Laut",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6012",
+		"location": "Kab. Morowali Utara",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6091",
+		"location": "Kota Palu ",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6088",
+		"location": "Kab./Kota Lainnya di Sulteng",
+		"provinceCode":"29",
+		"province":"Sulawesi Tengah"
+	},
+	{
+		"code":"6101",
+		"location": "Kab. Pinrang ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6102",
+		"location": "Kab. Gowa ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6103",
+		"location": "Kab. Wajo ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6105",
+		"location": "Kab. Bone ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6106",
+		"location": "Kab. Tana Toraja ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6107",
+		"location": "Kab. Maros ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6109",
+		"location": "Kab. Luwu",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6110",
+		"location": "Kab. Sinjai ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6111",
+		"location": "Kab. Bulukumba ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6112",
+		"location": "Kab. Bantaeng ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6113",
+		"location": "Kab. Jeneponto ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6114",
+		"location": "Kab. Kepualauan Selayar (d/h Kab. Selayar)",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6115",
+		"location": "Kab. Takalar ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6116",
+		"location": "Kab. Barru ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6117",
+		"location": "Kab. Sidenreng Rappang ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6118",
+		"location": "Kab. Pangkajene Kepulauan ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6119",
+		"location": "Kab. Soppeng (d/h Kab. Watansoppeng)",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6121",
+		"location": "Kab. Enrekang ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6122",
+		"location": "Kab. Luwu Timur (d/h Kab. Luwu Selatan)",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6124",
+		"location": "Kab. Luwu Utara  ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6125",
+		"location": "Kab. Toraja Utara",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6191",
+		"location": "Kota Makassar",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6192",
+		"location": "Kota Pare-Pare ",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6193",
+		"location": "Kota Palopo",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6188",
+		"location": "Kab./Kota Lainnya di Sulsel",
+		"provinceCode":"28",
+		"province":"Sulawesi Selatan"
+	},
+	{
+		"code":"6202",
+		"location": "Kab. Minahasa ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6203",
+		"location": "Kab. Bolaang Mongondow ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6204",
+		"location": "Kab. Kepulauan Sangihe ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6205",
+		"location": "Kab. Kepulauan Talaud ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6206",
+		"location": "Kab. Minahasa Selatan ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6207",
+		"location": "Kab. Minahasa Utara",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6209",
+		"location": "Kab. Minahasa Tenggara",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6210",
+		"location": "Kab. Bolaang Mongondow Utara",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6211",
+		"location": "Kab. Kepulauan Siau Tagulandang Biaro",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6212",
+		"location": "Kab. Bolaang Mongondow Selatan",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6213",
+		"location": "Kab. Bolaang Mongondow Timur",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6291",
+		"location": "Kota Manado ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6292",
+		"location": "Kota Kotamobagu",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6293",
+		"location": "Kota Bitung ",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6294",
+		"location": "Kota. Tomohon",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6288",
+		"location": "Kab./Kota Lainnya di Sulut",
+		"provinceCode":"31",
+		"province":"Sulawesi Utara"
+	},
+	{
+		"code":"6301",
+		"location": "Kab. Gorontalo ",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6302",
+		"location": "Kab. Bualemo   ",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6303",
+		"location": "Kab. Bonebolango",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6304",
+		"location": "Kab. Pohuwato",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6305",
+		"location": "Kab. Gorontalo Utara",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6391",
+		"location": "Kota Gorontalo ",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6388",
+		"location": "Kab./Kota Lainnya di Gorontalo",
+		"provinceCode":"7",
+		"province":"Gorontalo"
+	},
+	{
+		"code":"6401",
+		"location": "Kab. Polewali Mandar",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6402",
+		"location": "Kab. Majene ",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6403",
+		"location": "Kab. Mamasa ",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6404",
+		"location": "Kab. Mamuju Utara",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6405",
+		"location": "Kab. Mamuju Tengah",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6491",
+		"location": "Kota Mamuju",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6488",
+		"location": "Kab./Kota Lainnya di Sulbar",
+		"provinceCode":"32",
+		"province":"Sulawesi Barat"
+	},
+	{
+		"code":"6901",
+		"location": "Kab. Buton ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6903",
+		"location": "Kab. Muna ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6904",
+		"location": "Kab. Kolaka ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6905",
+		"location": "Kab. Wakatobi",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6906",
+		"location": "Kab. Konawe",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6907",
+		"location": "Kab. Konawe Selatan ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6908",
+		"location": "Kab. Bombana",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6909",
+		"location": "Kab. Kolaka Utara",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6910",
+		"location": "Kab. Buton Utara",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6911",
+		"location": "Kab. Konawe Utara",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6912",
+		"location": "Kab. Kolaka Timur",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6913",
+		"location": "Kab. Konawe Kepulauan",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6914",
+		"location": "Kab. Buton Selatan",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6915",
+		"location": "Kab. Buton Tengah",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6916",
+		"location": "Kab. Muna Barat",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6988",
+		"location": "Kab./Kota Lainnya di Sulteng",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6990",
+		"location": "Kota Bau-Bau ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"6991",
+		"location": "Kota Kendari ",
+		"provinceCode":"30",
+		"province":"Sulawesi Tenggara"
+	},
+	{
+		"code":"7101",
+		"location": "Kab. Lombok Barat ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7102",
+		"location": "Kab. Lombok Tengah ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7103",
+		"location": "Kab. Lombok Timur ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7104",
+		"location": "Kab. Sumbawa ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7105",
+		"location": "Kab. Bima ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7106",
+		"location": "Kab. Dompu ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7107",
+		"location": "Kab. Sumbawa Barat",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7108",
+		"location": "Kab. Lombok Utara",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7191",
+		"location": "Kota Mataram ",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7192",
+		"location": "Kota Bima",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7188",
+		"location": "Kab./Kota Lainnya di NTB",
+		"provinceCode":"22",
+		"province":"Nusa Tenggara Barat"
+	},
+	{
+		"code":"7201",
+		"location": "Kab. Buleleng ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7202",
+		"location": "Kab. Jembrana ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7203",
+		"location": "Kab. Tabanan ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7204",
+		"location": "Kab. Badung",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7205",
+		"location": "Kab. Gianyar ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7206",
+		"location": "Kab. Klungkung ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7207",
+		"location": "Kab. Bangli ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7208",
+		"location": "Kab. Karangasem ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7291",
+		"location": "Kota Denpasar ",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7288",
+		"location": "Kab./Kota Lainnya di Bali",
+		"provinceCode":"2",
+		"province":"Bali"
+	},
+	{
+		"code":"7401",
+		"location": "Kab. Kupang ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7402",
+		"location": "Kab. Timor-Tengah Selatan ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7403",
+		"location": "Kab. Timor-Tengah Utara ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7404",
+		"location": "Kab. Belu ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7405",
+		"location": "Kab. Alor ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7406",
+		"location": "Kab. Flores Timur ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7407",
+		"location": "Kab. Sikka ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7408",
+		"location": "Kab. Ende ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7409",
+		"location": "Kab. Ngada ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7410",
+		"location": "Kab. Manggarai ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7411",
+		"location": "Kab. Sumba Timur",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7412",
+		"location": "Kab. Sumba Barat ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7413",
+		"location": "Kab. Lembata",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7414",
+		"location": "Kab. Rote Ndao",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7415",
+		"location": "Kab. Manggarai Barat",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7416",
+		"location": "Kab. Sumba Tengah",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7417",
+		"location": "Kab. Sumba Barat Daya",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7418",
+		"location": "Kab. Manggarai Timur",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7419",
+		"location": "Kab. Nagekeo",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7420",
+		"location": "Kab. Sab Raijua",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7421",
+		"location": "Kab. Malaka",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7491",
+		"location": "Kota Kupang ",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"7488",
+		"location": "Kab./Kota Lainnya di NTT",
+		"provinceCode":"23",
+		"province":"Nusa Tenggara Timur"
+	},
+	{
+		"code":"8101",
+		"location": "Kab. Maluku Tengah ",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8102",
+		"location": "Kab. Maluku Tenggara ",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8103",
+		"location": "Kab. Maluku Tenggara Barat",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8104",
+		"location": "Kab. Buru",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8105",
+		"location": "Kota Seram Bagian Barat",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8106",
+		"location": "Kota Seram Bagian Timur",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8107",
+		"location": "Kota Kepulauan Aru",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8108",
+		"location": "Kab. Maluku Barat Daya",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8109",
+		"location": "Kab. Buru Selatan",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8191",
+		"location": "Kota Ambon ",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8192",
+		"location": "Kota Tual",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8188",
+		"location": "Kab./Kota Lainnya di Maluku",
+		"provinceCode":"20",
+		"province":"Maluku"
+	},
+	{
+		"code":"8201",
+		"location": "Kab. Jayapura ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8202",
+		"location": "Kab. Biak Numfor ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8210",
+		"location": "Kab. Kepulauan Yapen ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8211",
+		"location": "Kab. Merauke ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8212",
+		"location": "Kab. Paniai ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8213",
+		"location": "Kab. Jayawijaya ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8214",
+		"location": "Kab. Nabire",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8215",
+		"location": "Kab. Mimika",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8216",
+		"location": "Kab. Puncak Jaya",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8217",
+		"location": "Kab. Sarmi",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8218",
+		"location": "Kab. Keerom",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8221",
+		"location": "Kab. Pegunungan Bintang",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8222",
+		"location": "Kab. Yahukimo",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8223",
+		"location": "Kab. Tolikara",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8224",
+		"location": "Kab. Waropen",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8226",
+		"location": "Kab. Boven Digoel",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8227",
+		"location": "Kab. Mappi",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8228",
+		"location": "Kab. Asmat",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8231",
+		"location": "Kab. Supiori",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8232",
+		"location": "Kab. Mamberamo Raya",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8233",
+		"location": "Kab. Dogiyai",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8234",
+		"location": "Kab. Lanny Jaya",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8235",
+		"location": "Kab. Mamberamo Tengah",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8236",
+		"location": "Kab. Nduga ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8237",
+		"location": "Kab. Yalimo",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8238",
+		"location": "Kab. Puncak",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8239",
+		"location": "Kab. Intan Jaya",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8241",
+		"location": "Kab. Deiyai",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8291",
+		"location": "Kota Jayapura ",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8288",
+		"location": "Kab./Kota Lainnya di Papua",
+		"provinceCode":"24",
+		"province":"Papua"
+	},
+	{
+		"code":"8302",
+		"location": "Kab. Halmahera Tengah  ",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8303",
+		"location": "Kab. Halmahera Utara",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8304",
+		"location": "Kab. Halmahera Timur",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8305",
+		"location": "Kab. Halmahera Barat",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8306",
+		"location": "Kab. Halmahera Selatan",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8307",
+		"location": "Kab. Kepulauan Sula",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8308",
+		"location": "Kab. Pulau Morotai",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8309",
+		"location": "Kab. Pulau Taliabu",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8390",
+		"location": "Kota Ternate   ",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8391",
+		"location": "Kota Tidore Kepulauan",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8388",
+		"location": "Kab./Kota Lainnya di Maluku Utara",
+		"provinceCode":"21",
+		"province":"Maluku Utara"
+	},
+	{
+		"code":"8401",
+		"location": "Kab. Sorong ",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8402",
+		"location": "Kab. Fak-Fak ",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8403",
+		"location": "Kab. Manokwari ",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8404",
+		"location": "Kab. Sorong Selatan",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8405",
+		"location": "Kab. Raja Ampat",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8406",
+		"location": "Kab. Kaimana",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8407",
+		"location": "Kab. Teluk Bintuni",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8408",
+		"location": "Kab. Teluk Wondama",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8409",
+		"location": "Kab. Tembrauw",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8410",
+		"location": "Kab. Maybrat",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8411",
+		"location": "Kab. Pegunungan Arfak ",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8412",
+		"location": "Kab. Manokwari Selatan",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8491",
+		"location": "Kota Sorong",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+	{
+		"code":"8488",
+		"location": "Kab./Kota Lainnya di Papua Barat",
+		"provinceCode":"25",
+		"province":"Papua Barat"
+	},
+    {
+		"code":"9001",
+		"location": "Di Luar Indonesia",
+		"provinceCode":"Di luar Indonesia",
+		"province":"Di Luar Indonesia"
+	}
+]
